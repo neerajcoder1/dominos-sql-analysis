@@ -60,18 +60,18 @@ The dataset contains 5 tables:
 ## Visualizations
 
 ### Orders by Hour
-![Orders by Hour]
+[Orders by Hour]
 <img width="1072" height="666" alt="Screenshot 2026-04-13 092529" src="https://github.com/user-attachments/assets/75523906-381c-4310-a254-ffee5ae25543" />
 
 
 
 ### Revenue by Category
-![Revenue by Category]
+[Revenue by Category]
 <img width="1072" height="687" alt="Screenshot 2026-04-13 092152" src="https://github.com/user-attachments/assets/9b05784e-cef6-4348-b830-382b2dc759a2" />
 
 
 ### Top 5 Pizzas
-![Top Pizzas]
+[Top Pizzas]
 <img width="1077" height="669" alt="Screenshot 2026-04-13 092059" src="https://github.com/user-attachments/assets/9da04a8b-4974-4073-b86d-85ff86b2f475" />
 
 
